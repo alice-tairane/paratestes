@@ -1,0 +1,2 @@
+A Trybe, escola de tecnologia especializada na formação de profissionais em programação.
+ Com o Modelo de Sucesso Compartilhado (MSC) ofertado pela Trybe Fintech, instituição financeira autorizada a operar pelo Banco Central do Brasil, a pessoa estudante tem a opção de pagar apenas quando já estiver trabalhando.
